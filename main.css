@@ -1,0 +1,32 @@
+body {
+    color: #444;
+    line-height: 1.6;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header-title {
+    color: #0091ff
+}
+
+.header-subtitle {
+    margin-bottom: 1%;
+}
+
+.container {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.header {
+    border-bottom: 2px solid #444;
+}
+
+.content-body {
+    margin-top: 4%;
+}
+
+.code {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 14px;
+}
